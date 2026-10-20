@@ -1,0 +1,7 @@
+{
+  "title": "空间单细胞组学：三类技术，一个分析瓶颈",
+  "author": "JC捷采",
+  "summary": "空间组学的三类实验技术读出单元不同，分析流程却缺少统一标准。Annual Review of Biomedical Data Science 2024年综述按NGS空间条形码、ISH/ISS成像转录组、成像空间蛋白组与计算分析梳理分辨率、覆盖度和证据边界。",
+  "cover_file": "images/cover-hero-2350x1000.png",
+  "cover_upload_file": "images/cover-hero-900x383.png"
+}
